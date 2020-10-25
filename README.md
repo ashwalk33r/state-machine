@@ -1,1 +1,1 @@
-state-machine
+go to index.html and open console
